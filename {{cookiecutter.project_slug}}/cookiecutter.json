@@ -6,5 +6,5 @@
     "options_to_choose": ["first", "second", "third"],
     "git_main_branch": "master",
     "author_name": "VSHNeer",
-    "author_email": "{{ cookiecutter.author_name | slugify(separator='.') }}@vshn.ch",
+    "author_email": "{{ "{{" }} cookiecutter.author_name | slugify(separator='.') {{ "}}" }}@vshn.ch",
 }
