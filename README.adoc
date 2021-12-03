@@ -4,4 +4,7 @@ This project is a Cookiecutter template that generates… a new Cookiecutter tem
 
 == Usage
 
-`cookiecutter https://github.com/vshn/cookiecutter-cookiecutter.git`
+[source,bash]
+--
+$ cookiecutter https://github.com/vshn/cookiecutter-cookiecutter.git
+--
