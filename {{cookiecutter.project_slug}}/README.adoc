@@ -1,0 +1,3 @@
+== New Cookiecutter Project
+
+Welcome to the {{cookiecutter.project_title}} Cookiecutter project.

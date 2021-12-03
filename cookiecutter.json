@@ -1,0 +1,4 @@
+{
+    "project_title": "Title of cookiecutter project",
+    "project_slug": "{{ cookiecutter.project_title | slugify }}"
+}

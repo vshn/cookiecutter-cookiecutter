@@ -1,0 +1,10 @@
+{
+    "project_title": "Title of project",
+    "project_slug": "{{ "{{" }} cookiecutter.project_title | slugify {{ "}}" }}",
+    "project_url": "https://{{ "{{" }} cookiecutter.project_slug {{ "}}" }}.ch",
+    "random_prefix": "{{ "{{" }} random_ascii_string(2, punctuation=False).lower() {{ "}}" }}",
+    "options_to_choose": ["first", "second", "third"],
+    "git_main_branch": "master",
+    "author_name": "VSHNeer",
+    "author_email": "info@vshn.ch"
+}

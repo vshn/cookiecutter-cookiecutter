@@ -1,0 +1,7 @@
+= Cookiecutter Cookiecutter
+
+This project is a Cookiecutter template that generates… a new Cookiecutter template including a post-generation hook and some sample configuration values.
+
+== Usage
+
+`cookiecutter https://github.com/vshn/cookiecutter-cookiecutter.git`
