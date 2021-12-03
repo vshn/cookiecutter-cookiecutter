@@ -1,6 +1,6 @@
 = Cookiecutter Cookiecutter
 
-This project is a Cookiecutter template that generates… a new Cookiecutter template including a post-generation hook and some sample configuration values.
+This project is a Cookiecutter template that generates… a new Cookiecutter template with some sample configuration values.
 
 == Usage
 
